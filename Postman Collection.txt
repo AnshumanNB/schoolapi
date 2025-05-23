@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "6830640d5cbedefada121493",
+        "name": "DAV Public School",
+        "address": "New Panvel",
+        "latitude": 19.0023,
+        "longitude": 73.122,
+        "__v": 0,
+        "distance": 80.68253121488658
+    },
+    {
+        "_id": "683064655cbedefada121495",
+        "name": "DAV Public School",
+        "address": "New Panvel",
+        "latitude": 19.0023,
+        "longitude": 73.122,
+        "__v": 0,
+        "distance": 80.68253121488658
+    },
+    {
+        "_id": "68306831e8c8af72014456cb",
+        "name": "Shri Parshwanath School",
+        "address": "Sangli",
+        "latitude": 18.866049,
+        "longitude": 74.601654,
+        "__v": 0,
+        "distance": 91.97960787028876
+    },
+    {
+        "_id": "6830653e5cbedefada121497",
+        "name": "NEERI Modern School",
+        "address": "Nagpur",
+        "latitude": 21.1194,
+        "longitude": 79.065,
+        "__v": 0,
+        "distance": 619.8178390799133
+    },
+    {
+        "_id": "683065885cbedefada121499",
+        "name": "St. Paul Junior College",
+        "address": "Nagpur",
+        "latitude": 21.086531,
+        "longitude": 79.122078,
+        "__v": 0,
+        "distance": 623.5880848966633
+    }
+]
